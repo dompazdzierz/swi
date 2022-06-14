@@ -1,0 +1,21 @@
+.quote {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote-cacao {
+    margin-left: 400px;
+    margin-top: 8px;
+    font-weight: 200;
+}
+
+.quote-card {
+    border: 2px solid #212529 !important;
+}
+
+.jpg {
+    margin-top: 60px;
+    margin-left: 90px;
+}
